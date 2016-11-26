@@ -33,7 +33,7 @@ $ curl -L http://get.oh-my.fish | fish
 ```
 you need __git__@1.9.1+ pre-installed to make this command work properly. You can check via ``git --version ``, or update the git by `` brew upgrade git ``. If your git is not installed by ``brew``, please remove the git folder and re-install again by ``brew``. Git is located at: ``which git``.
 
-With ``omf``, you can install whatever you want to make fish better suite your workflow.
+With ``omf``, you can install whatever you want to make fish better suite your workflow. All configurations are under ``~/.config/omf``.
 
 ### Enhance fish shell
 There are several enhancement utilities to make fish better, though fish is already excellent.
