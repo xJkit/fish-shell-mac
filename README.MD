@@ -48,7 +48,8 @@ There are several enhancement utilities to make fish better, though fish is alre
   $ omf install bobthefish
   ```
 
-  * You need patched fonts: [powerline fonts](https://github.com/powerline/fonts) to make these work correctly. Follow the github repo instructions, clone it, and run ``./install.sh``.
+  * You need patched fonts: [powerline fonts](https://github.com/powerline/fonts) to make these work correctly. Follow the github repo instructions, clone it, and run ``./install.sh``. Remember to change the shell fonts of the terminal emulator ([iTerm2](https://www.iterm2.com/) is preferable :>) at the preference setting (hotkey: __``cmd+,``__).
+
 
 3. [agnoster](https://github.com/oh-my-fish/theme-agnoster)
   * A fish theme optimized for people who use __Git__, __SVN__ or Fish Vi-mode.
